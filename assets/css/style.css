@@ -1,0 +1,8 @@
+* {
+    font-size: 20px
+}
+
+#home {
+    background: url(http://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg) 
+    no-repeat center center;
+}
